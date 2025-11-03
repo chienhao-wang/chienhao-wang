@@ -56,12 +56,5 @@ Developed an automated sales performance dashboard integrating SQL and Tableau.
 
 ---
 
-### 📈 GitHub Stats
-
-![Jeff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true)
-
----
-
 ⭐ *Thanks for visiting my profile — feel free to reach out for collaboration or data-driven projects!*
 
