@@ -31,17 +31,17 @@ Stakeholder Engagement • Team Coordination • Cross-functional Collaboration 
 
 ### 📊 Featured Projects
 
-#### 🎵 Spotify User Churn Prediction and Segmentation
+#### 🎵 Spotify User Churn Prediction and Segmentation (Python + Power BI)
 Machine learning project analysing user behaviour and churn patterns to identify retention opportunities.  
 - Applied clustering and classification models (K-Means, Logistic Regression)  
 - Processed and visualised user behaviour data with Python (pandas, seaborn)  
 - Delivered actionable insights to support premium plan conversion strategy  
 🔗 [View Repository](https://github.com/chienhao-wang/spotify_user_analysis)
 
-#### 💼 Sales Dashboard Automation (SQL + Power BI)
-Developed an automated sales performance dashboard integrating SQL and Power BI.  
+#### 💼 Sales Dashboard Automation (SQL + Tableau)
+Developed an automated sales performance dashboard integrating SQL and Tableau.  
 - Cleaned and modelled sales data with SQL scripts  
-- Built Power BI dashboard to visualise KPIs and regional trends  
+- Built Tableau dashboard to visualise monthly sales trend and product contributions  
 - Reduced manual reporting time and improved decision visibility for stakeholders  
 🔗 [View Repository](https://github.com/chienhao-wang/grocery_sales_analysis)
 
