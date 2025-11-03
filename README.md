@@ -36,7 +36,7 @@ Machine learning project analysing user behaviour and churn patterns to identify
 - Applied clustering and classification models (K-Means, Logistic Regression)  
 - Processed and visualised user behaviour data with Python (pandas, seaborn)  
 - Delivered actionable insights to support premium plan conversion strategy  
-🔗 [View Repository](https://github.com/chienhao-wang/spotify-user-analysis)
+🔗 [View Repository](https://github.com/chienhao-wang/spotify_user_analysis)
 
 #### 💼 Sales Dashboard Automation (SQL + Power BI)
 Developed an automated sales performance dashboard integrating SQL and Power BI.  
