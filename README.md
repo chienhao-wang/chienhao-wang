@@ -8,7 +8,7 @@
 ### 🎯 About Me
 *MSc Business Analytics graduate skilled in transforming complex data into actionable insights through Python, SQL, and Power BI. Experienced in data modelling, visualisation, and machine learning for solving business and ESG challenges. Strong background in analytics storytelling, process optimisation, and cross-functional collaboration to support strategic decision-making.*
 
-[📝 View My CV](https://drive.google.com/file/d/126NcCUIrcxfekgdOKTKgVyKzPHY-ViGv/view?usp=sharing)
+[📝 View My CV](https://drive.google.com/file/d/1AkOxwIrythup_XzGURaC7dA5jCDj_5zR/view?usp=sharing)
 
 ---
 
@@ -51,7 +51,7 @@ SQL project analysing grocery sales to uncover product, regional, and seasonal p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/chienhaowang/)  
 📫 **Email:** [chienhao.jeff.wang@gmail.com](mailto:chienhao.jeff.wang@gmail.com)  
-🌍 **Portfolio:** [Coming Soon](https://your-portfolio-link.com)
+🌍 **Tableau Portfolio:** [Tableau Public](https://public.tableau.com/app/profile/chien.hao.wang/vizzes)
 
 ---
 
