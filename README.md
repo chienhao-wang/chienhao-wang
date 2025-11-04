@@ -42,7 +42,7 @@ Machine learning project analysing user behaviour and churn patterns to identify
 SQL project analysing grocery sales to uncover product, regional, and seasonal performance trends.
 - Processed and modelled **6.7M sales records** using SQL  
 - Visualised insights in Tableau to track revenue, categories, and regional performance  
-- Identified key sales drivers to support data-driven marketing and discount strategies 
+- Identified key sales drivers to support data-driven marketing and discount strategies   
 🔗 [View Repository](https://github.com/chienhao-wang/grocery_sales_analysis)
 
 ---
