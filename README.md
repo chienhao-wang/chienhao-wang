@@ -38,13 +38,12 @@ Machine learning project analysing user behaviour and churn patterns to identify
 - Delivered actionable insights to support premium plan conversion strategy  
 🔗 [View Repository](https://github.com/chienhao-wang/spotify_user_analysis)
 
-#### 💼 Sales Dashboard Automation (SQL + Tableau)
-Developed an automated sales performance dashboard integrating SQL and Tableau.  
-- Cleaned and modelled sales data with SQL scripts  
-- Built Tableau dashboard to visualise monthly sales trend and product contributions  
-- Reduced manual reporting time and improved decision visibility for stakeholders  
+#### 🛒 Grocery Sales Performance Analysis (SQL + Tableau)
+SQL project analysing grocery sales to uncover product, regional, and seasonal performance trends.
+- Processed and modelled **6.7M sales records** using SQL  
+- Visualised insights in Tableau to track revenue, categories, and regional performance  
+- Identified key sales drivers to support data-driven marketing and discount strategies 
 🔗 [View Repository](https://github.com/chienhao-wang/grocery_sales_analysis)
-
 
 ---
 
