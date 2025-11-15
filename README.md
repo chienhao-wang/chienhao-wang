@@ -51,6 +51,7 @@ SQL project analysing grocery sales to uncover product, regional, and seasonal p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/chienhaowang/)  
 📫 **Email:** [chienhao.jeff.wang@gmail.com](mailto:chienhao.jeff.wang@gmail.com)  
+🖼️ **Portfolio Website:** [Portfolio Website](https://chien-hao-wang-portfolio-website.vercel.app/)  
 🌍 **Tableau Portfolio:** [Tableau Public](https://public.tableau.com/app/profile/chien.hao.wang/vizzes)
 
 ---
