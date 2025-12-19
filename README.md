@@ -8,7 +8,7 @@
 ### 🎯 About Me
 *MSc Business Analytics graduate skilled in transforming complex data into actionable insights through Python, SQL, and Power BI. Experienced in data modelling, visualisation, and machine learning for solving business and ESG challenges. Strong background in analytics storytelling, process optimisation, and cross-functional collaboration to support strategic decision-making.*
 
-[📝 View My CV](https://drive.google.com/file/d/1AkOxwIrythup_XzGURaC7dA5jCDj_5zR/view?usp=sharing)
+[📝 View My CV](https://drive.google.com/file/d/1VgzK6yfUbP9vKPfiMszZMKxbXoHzRK3Q/view?usp=sharing)
 
 ---
 
@@ -31,8 +31,8 @@ Stakeholder Engagement • Team Coordination • Cross-functional Collaboration 
 
 ### 📊 Featured Projects
 
-#### 🎵 Spotify User Churn Prediction and Segmentation (Python + Power BI)
-Machine learning project analysing user behaviour and churn patterns to identify retention opportunities.  
+#### 🎵 Spotify User Segmentation & Churn Analysis (Python + Power BI)
+Machine learning project analysing user behaviour and churn patterns to identify retention and conversion opportunities.  
 - Applied clustering and classification models (K-Means, Logistic Regression)  
 - Processed and visualised user behaviour data with Python (pandas, seaborn)  
 - Delivered actionable insights to support premium plan conversion strategy  
@@ -44,6 +44,13 @@ SQL project analysing grocery sales to uncover product, regional, and seasonal p
 - Visualised insights in Tableau to track revenue, categories, and regional performance  
 - Identified key sales drivers to support data-driven marketing and discount strategies   
 🔗 [View Repository](https://github.com/chienhao-wang/grocery_sales_analysis)
+
+#### 🧪 Store Strategy Experimentation (A/B Testing | Python)
+Python-based experimental analysis evaluating the impact of a new store strategy on sales and customer satisfaction.
+- Applied Difference-in-Differences to estimate causal sales uplift
+- Conducted experiment sanity checks (balance tests, power analysis)
+- Quantified business impact and rollout recommendations using Python
+🔗 [View Repository](https://github.com/chienhao-wang/sales-and-satisfaction-analysis)
 
 ---
 
