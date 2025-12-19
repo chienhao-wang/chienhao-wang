@@ -49,7 +49,7 @@ SQL project analysing grocery sales to uncover product, regional, and seasonal p
 Python-based experimental analysis evaluating the impact of a new store strategy on sales and customer satisfaction.
 - Applied Difference-in-Differences to estimate causal sales uplift
 - Conducted experiment sanity checks (balance tests, power analysis)
-- Quantified business impact and rollout recommendations using Python
+- Quantified business impact and rollout recommendations using Python  
 🔗 [View Repository](https://github.com/chienhao-wang/sales-and-satisfaction-analysis)
 
 ---
